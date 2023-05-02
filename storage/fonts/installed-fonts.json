@@ -1,0 +1,18 @@
+{
+    "heebo": {
+        "normal": "C:\\Users\\nomin\\Documents\\diplom\\intern\\intern\\storage\\fonts\/heebo_normal_0ed87c53870f348cb4247fdad96e86a9",
+        "500": "heebo_500_cc1508a764fab0a7d7d5ef40a9798122"
+    },
+    "jost": {
+        "500": "C:\\Users\\nomin\\Documents\\diplom\\intern\\intern\\storage\\fonts\/jost_500_519614907cd59ad360dad45690e00259",
+        "600": "C:\\Users\\nomin\\Documents\\diplom\\intern\\intern\\storage\\fonts\/jost_600_5b67e7fa53f1493f7a555317bde84538",
+        "bold": "jost_bold_1c3ef6f67944709bf967e2d4db292704"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_9166bcb40dea5ba374b655439357cc5e"
+    },
+    "font awesome 5 free": {
+        "normal": "C:\\Users\\nomin\\Documents\\diplom\\intern\\intern\\storage\\fonts\/font_awesome_5_free_normal_ed4e4da87937dc9d793611fdb1abbce8",
+        "900": "font_awesome_5_free_900_31ca5fb3f9009ed2d5b8cf264a9d6ed4"
+    }
+}
